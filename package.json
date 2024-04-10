@@ -1,0 +1,19 @@
+{
+  "name": "inquirer",
+  "version": "1.0.0",
+  "description": "inquirer package",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^9.2.17",
+    "qr-image": "^3.2.0",
+    "sillyname": "^0.1.0",
+    "superheroes": "^3.0.0",
+    "unique-random": "^2.1.0",
+    "unique-random-array": "^2.0.0"
+  },
+  "scripts": {
+    "test": "npm inquirer -v"
+  },
+  "author": "",
+  "license": "ISC"
+}
